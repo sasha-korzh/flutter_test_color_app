@@ -5,8 +5,8 @@ Test project for Solid Software.
 ## description
 
 There are two datasources with color generation:
-    Local DataSource => get random color from Colors.primaries 
-    Remote DataSource => get random color from API "http://www.colr.org/json/color/random" 
+  - Local DataSource => get random color from Colors.primaries 
+  - Remote DataSource => get random color from API "http://www.colr.org/json/color/random" 
 When user has no connection app will use Local DataSource. Otherwise app will send get 
 request to the API.
 
