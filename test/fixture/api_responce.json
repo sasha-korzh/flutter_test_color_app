@@ -1,0 +1,34 @@
+{
+    "colors": [{
+        "timestamp": 1187574814,
+        "hex": "AED094",
+        "id": 50552,
+        "tags": [{
+            "timestamp": 1108110854,
+            "id": 2681,
+            "name": "white"
+        }, {
+            "timestamp": 1108110856,
+            "id": 2988,
+            "name": "bone"
+        }]
+    }],
+    "schemes": [],
+    "schemes_history": {},
+    "success": true,
+    "colors_history": {
+        "AED094": [{
+            "d_count": 0,
+            "id": "2681",
+            "a_count": 1,
+            "name": "white"
+        }, {
+            "d_count": 0,
+            "id": "2988",
+            "a_count": 1,
+            "name": "bone"
+        }]
+    },
+    "messages": [],
+    "new_color": "AED094"
+}
